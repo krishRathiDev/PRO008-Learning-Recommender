@@ -194,7 +194,7 @@ Response:
 ## 👨‍💻 Author
 
 **Krish Kumar Rathi**  
-B.Tech CSE (AI & ML)  
+B.Tech CSE   
 Major Project — PRO008  
 
 ---
